@@ -1,4 +1,4 @@
-## chatPDF
+## ChatPDF
 
 Install the following Libraries
 1. Langchain
